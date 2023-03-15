@@ -18,3 +18,6 @@ g=4;
 
 //nuevo nuevo nuevo
 h=6;
+
+//supernuevo
+j=10000;
